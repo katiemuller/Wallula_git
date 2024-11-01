@@ -1,0 +1,10 @@
+                        PEST RUN RECORD: CASE trial
+
+
+ PEST Version: 17.6
+
+ ******************************************************************************
+ Error condition prevents continued PEST execution:-
+
+ Cannot open instruction file trial.ins.
+ ******************************************************************************

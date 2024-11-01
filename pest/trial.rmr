@@ -1,0 +1,32 @@
+                     PEST RUN MANAGEMENT RECORD: CASE trial
+
+ AGENT DETAILS:-
+
+ Agent Name                  PAGENT Working Directory
+ ----------                  ------------------------
+ "pslave_0"                  ./pslave0/
+ "pslave_1"                  ./pslave1/
+ "pslave_2"                  ./pslave2/
+ "pslave_3"                  ./pslave3/
+ "pslave_4"                  ./pslave4/
+ "pslave_5"                  ./pslave5/
+ "pslave_6"                  ./pslave6/
+ "pslave_7"                  ./pslave7/
+
+
+ Attempting to communicate with agents ....
+
+ - agent "pslave_0" has been detected.
+ - agent "pslave_1" has been detected.
+ - agent "pslave_2" has been detected.
+ - agent "pslave_3" has been detected.
+ - agent "pslave_4" has been detected.
+ - agent "pslave_5" has been detected.
+ - agent "pslave_6" has been detected.
+ - agent "pslave_7" has been detected.
+
+ ******************************************************************************
+ Error condition prevents continued PEST execution:-
+
+ Cannot open instruction file trial.ins.
+ ******************************************************************************
